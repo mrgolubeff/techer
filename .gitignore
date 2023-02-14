@@ -130,3 +130,9 @@ dmypy.json
 
 # ini-file
 bot.ini
+
+# Session files
+*.session
+
+# Test files
+test.py
