@@ -1,0 +1,7 @@
+pendulum==2.1.2
+pyaes==1.6.1
+Pyrogram==2.0.99
+PySocks==1.7.1
+python-dateutil==2.8.2
+pytzdata==2020.1
+six==1.16.0
