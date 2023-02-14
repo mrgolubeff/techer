@@ -136,3 +136,6 @@ bot.ini
 
 # Test files
 test.py
+
+# JSON files
+*.json
